@@ -1,0 +1,12 @@
+{
+  "name": "nats-demo",
+  "version": "1.0.0",
+  "description": "Some tests with NATS messaging from NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/cawoodm/nats-demo/",
+  "author": "Marc Cawood",
+  "license": "MIT",
+  "dependencies": {
+    "nats": "^1.3.0"
+  }
+}
